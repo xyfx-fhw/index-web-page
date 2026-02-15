@@ -1,0 +1,48 @@
+{
+  "technical": [
+    {
+      "title": "AutoSAR入门到精通系列讲解",
+      "icon": "🚗",
+      "description": "汽车电子软件架构标准的系统学习。从基础概念到实战应用。",
+      "url": "https://blog.csdn.net/xyfx_fhw/article/details/94611533"
+    },
+    {
+      "title": "HaloOS开源操作系统",
+      "icon": "⚙️",
+      "description": "个人开源微内核系统研究。探索汇编与内存管理的最后疆域。",
+      "url": "https://gitee.com/haloos"
+    },
+    {
+      "title": "AI技术笔记（敬请期待）",
+      "icon": "🤖",
+      "description": "人工智能领域的技术探索。AI Coding与Agent实践记录。",
+      "url": "#"
+    },
+    {
+      "title": "RUST互动教程",
+      "icon": "🦀",
+      "description": "系统级编程语言的现代化探索。内存安全与性能的完美平衡。",
+      "url": "https://xyfx-fhw.github.io/RustCourse/"
+    }
+  ],
+  "life": [
+    {
+      "title": "摄影日志",
+      "icon": "📷",
+      "description": "用镜头记录生活的美好瞬间。光影与情感的艺术表达。",
+      "url": "https://xyfx-fhw.github.io/photography/"
+    },
+    {
+      "title": "经济学观察（敬请期待）",
+      "icon": "📊",
+      "description": "基于博弈论视角的市场逻辑推演。理性人与非理性市场的碰撞。",
+      "url": "#"
+    },
+    {
+      "title": "旅行者地图（敬请期待）",
+      "icon": "🗺️",
+      "description": "物理世界的地理探索与人文攻略。丈量世界的脚步记录。",
+      "url": "#"
+    }
+  ]
+}
