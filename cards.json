@@ -32,17 +32,17 @@
       "description": "用镜头记录生活的美好瞬间。光影与情感的艺术表达。",
       "url": "https://xyfx-fhw.github.io/photography/"
     },
+        {
+      "title": "旅行日志",
+      "icon": "🗺️",
+      "description": "物理世界的地理探索与人文攻略。对旅行地点主观综合排行榜",
+      "url": "https://xyfx-fhw.github.io/travel-ranking/"
+    },
     {
       "title": "浅窥经济学",
       "icon": "📊",
       "description": "基于博弈论视角的市场逻辑推演。理性人与非理性市场的碰撞。",
       "url": "#"
-    },
-    {
-      "title": "旅行日志",
-      "icon": "🗺️",
-      "description": "物理世界的地理探索与人文攻略。对旅行地点主观综合排行榜",
-      "url": "https://xyfx-fhw.github.io/travel-ranking/"
     }
   ]
 }
